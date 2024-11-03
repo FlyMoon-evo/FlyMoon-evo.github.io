@@ -14,7 +14,7 @@ name                     : &name "月下萤火"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FlyMoon-evo/FlyMoon.github.io"
+repository               : "FlyMoon.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,14 +22,14 @@ repository               : "FlyMoon-evo/FlyMoon.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "月下萤火"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
+  location         : "广东"
+  employer         : "某某中学城东学校"
+  uri              : # https://flymoon-evo.github.io/
+  email            : "chenan.oc@qq.com"
+  
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
