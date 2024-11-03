@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "月下萤火"
+permalink: 月下萤火
+title: "欢迎来到我的个人学术网站"
 author_profile: true
 redirect_from: 
   - /about/
