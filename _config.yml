@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "月下萤火"
 description              : &description "personal description"
 url                      : https://flymoon-evo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Fly/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "Fly" # the subpath of your site, e.g. "/blog"
 repository               : "FlyMoon-evo/FlyMoon.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
