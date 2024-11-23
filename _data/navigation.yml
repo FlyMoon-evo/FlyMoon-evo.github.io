@@ -5,23 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Project"
-    url: /project/
+  - title: "关于我"
+    url: /aboutme/
 
-  #- title: "Talks"
-    #url: /talks/    
-
-  #- title: "Teaching"
-    #url: /teaching/    
+  - title: "Github项目"
+    url: /https://github.com/FlyMoon-evo/
     
-  #- title: "Portfolio"
-    #url: /portfolio/
-        
-  #- title: "Blog Posts"
-    #url: /year-archive/
-    
-  #- title: "CV"
-    #url: /cv/
-    
-  #- title: "Guide"
-    #url: /markdown/
+  - title: "联系我们"
+    url: /contact
