@@ -9,7 +9,7 @@ main:
     url: /aboutme/
 
   - title: "Github项目"
-    url: /https://github.com/FlyMoon-evo/
+    url: https://github.com/FlyMoon-evo/
     
   - title: "联系我们"
     url: /contact
